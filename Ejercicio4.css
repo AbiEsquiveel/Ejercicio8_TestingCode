@@ -1,0 +1,17 @@
+body {
+    font-family: "Arial", sans-serif;
+    background: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    color: #666;
+}
+
+/*Errores: Faltaba un punto y coma en la propiedad color de h1.*/
